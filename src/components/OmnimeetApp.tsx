@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { ThemeProvider } from './Layout/ThemeProvider';
+
 import Header from './Layout/Header';
 import HeroSection from './Home/HeroSection';
 import FeaturesSection from './Home/FeaturesSection';
